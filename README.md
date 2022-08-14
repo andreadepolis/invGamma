@@ -2,11 +2,11 @@
 
 This repository contains Matlab® codes to compute:
 
--Cumulative distribution function (CDF)
--Probability density function (PDF)
--Quantile function (inverse CDF)
--Random number generator
-- (Non-central) Moments
+- Cumulative distribution function (`igamcdf.m`)
+- Probability density function (`igampdf.m`)
+- Quantile function (`igaminv.m`)
+- Random number generator (`igamrnd.m`)
+- (Non-central) Moments (`igammom.m`)
 
 for the Inverse-Gamma distribution, $\mathcal{IG}(\alpha, \beta)$.
 

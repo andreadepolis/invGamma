@@ -1,0 +1,2 @@
+# invGamma
+Invers-Gamma codes

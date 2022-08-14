@@ -12,4 +12,4 @@ function q = igaminv(n, alpha, betta)
 % 
 % Andrea De Polis, 2022 (a.de-polis@warwick.ac.uk)
  
-q = 1./gaminv(1-n, alpha, 1/betta) ;
+q = betta./gammaincinv(gamma(alpha)*(1-n), alpha) ;

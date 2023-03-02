@@ -1,6 +1,7 @@
 function q = igaminv(n, alpha, betta)
-% Compute the cumulative distribution function of the Inverse-Gamma
-% distribution with shape and scale parameters, IG(alpha, beta).
+% Compute the inverse cumulative distribution function, or qunatile 
+% function, of the Inverse-Gamma distribution with shape and scale
+% parameters, IG(alpha, beta).
 % 
 % Input: 
 % n     = quantiles of interest

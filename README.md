@@ -33,7 +33,7 @@ $$
 ## Inverse cumulative distribution function (Quantile function)
 
 $$
-F^{-1}(p;\alpha,\beta)=\frac{\beta}{\gamma^{-1} (\Gamma(\alpha)*(1-p), \alpha)},
+F^{-1}(p;\alpha,\beta)=\frac{\beta}{\gamma^{-1} (\Gamma(\alpha)(1-p), \alpha)},
 $$
 
 where $\gamma^{-1}(\cdot,\cdot)$ is the _lower inverse incomplete gamma function_.

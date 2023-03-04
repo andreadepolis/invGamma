@@ -8,7 +8,7 @@ This repository contains Matlab® codes to compute:
 - Random number generator (`igamrnd.m`)
 - (Non-central) Moments (`igammom.m`)
 
-for the Inverse-Gamma distribution, $\mathcal{IG}(\alpha, \beta)$.
+for the Inverse-Gamma distribution with shape parameter \alpha and scale parameter \beta, $\mathcal{IG}(\alpha, \beta)$.
 
 ## Probability density function
 

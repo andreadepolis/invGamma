@@ -1,4 +1,4 @@
-# Matlab routinse for the Inverse-Gamma distribution
+# Matlab routines for the Inverse-Gamma distribution
 
 This repository contains Matlab® codes to compute:
 

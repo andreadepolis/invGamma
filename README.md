@@ -30,6 +30,13 @@ $$
 Q\left(\alpha,\frac{\beta}{x}\right) = \frac{\gamma\left(\alpha,\frac{\beta}{x}\right)}{\Gamma(\alpha)}.
 $$
 
+## Inverse cumulative distribution function (Quantile function)
+
+$$
+F^{-1}(p;\alpha,\beta)=Q^{-1}\left(\alpha,\frac{\beta}{p}\right),
+$$
+
+where $\gamma^{-1}(\cdot,\cdot)$ is the _lower inverse incomplete gamma function_.
 ## $n^{th}$-(non-central)-moment
 
 $$

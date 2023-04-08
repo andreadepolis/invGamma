@@ -12,4 +12,4 @@ function igpdf = igampdf(x, alpha, betta)
 % 
 % Andrea De Polis, 2022 (a.de-polis@warwick.ac.uk)
  
-igpdf = betta^alpha./gamma(alpha).*x^-(alpha + 1).*exp(-betta./x) ;
+igpdf = betta^alpha./gamma(alpha).*x.^-(alpha + 1).*exp(-betta./x) ;

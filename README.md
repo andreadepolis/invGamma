@@ -24,7 +24,7 @@ $$
 F(x;\alpha,\beta) = Q\left(\alpha,\frac{\beta}{x}\right),
 $$
 
-where $Q(\cdot)$ is the _regularized gamma function_, that is a normalized version of the _upper_ incomplete gamma function, $\gamma(\cdot,\cdot)$, 
+where $Q(\cdot)$ is the _regularized gamma function_, that is a normalized version of the _upper_ incomplete gamma function, $\gamma(\cdot)$, 
 
 $$
 Q\left(\alpha,\frac{\beta}{x}\right) = \frac{\gamma\left(\alpha,\frac{\beta}{x}\right)}{\Gamma(\alpha)}.
@@ -36,7 +36,7 @@ $$
 F^{-1}(p;\alpha,\beta)=Q^{-1}\left(\alpha,\frac{\beta}{p}\right),
 $$
 
-where $\gamma^{-1}(\cdot,\cdot)$ is the _lower inverse incomplete gamma function_.
+where $Q^{-1}(\cdot)$ is the (regularized) _upper inverse incomplete gamma function_.
 ## $n^{th}$-(non-central)-moment
 
 $$

@@ -18,5 +18,5 @@ if size(n, 2) == 1
 
 end
 
-r = 1./gamrnd(alpha, 1/betta, n) ;
+r = 1./gamrnd(alpha, 1./betta, n) ;
 
